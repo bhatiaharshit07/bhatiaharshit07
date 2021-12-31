@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+# Technologies
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 <!--
 **bhatiaharshit07/bhatiaharshit07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
