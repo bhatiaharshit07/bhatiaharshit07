@@ -79,6 +79,4 @@ https://harshitbhatia.in
 - LinkedIn: https://linkedin.com/in/harshitbhatiacto
 
 ---
-
-> Building Enterprise Agentic AI Systems that deliver measurable business outcomes.
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=bhatiaharshit07.visitor-badge)
